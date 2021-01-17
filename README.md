@@ -8,3 +8,12 @@ data time selections, map overlays, point-source and grid plotting, and even dat
 
 Requirments:
 xlma-python  -- For LMA flash sorting and gridding
+
+Note: This Project remains a work in progress. 
+Wishlist: Data/Loading/Plotting Indicators 
+          Basemap Selection
+          Remove Flash-Sorting Points -- Keep grids
+          Update Processing Widget Callbacks
+
+Screenshots:
+![raw](examples/raw_data_grid.png)
